@@ -1,0 +1,7 @@
+#Local Env Files
+#this will only block just .env anythiong followed will not be blocked to fix this
+.env
+
+
+#THis will block all .env files no matter what follows
+.env*
